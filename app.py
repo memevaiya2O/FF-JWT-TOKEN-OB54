@@ -1,4 +1,4 @@
-# Infinity Codex
+# 🔒 Infinity Codex | ULTRA PROTECTED
 import base64,zlib,marshal,sys,hashlib,inspect,types
 
 # ---------- ANTI DEBUG ----------
